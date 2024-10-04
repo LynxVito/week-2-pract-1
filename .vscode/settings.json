@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "mpie-p21-creating-terrain.sln"
+    "dotnet.defaultSolution": "week-2-pract-1.sln"
 }
